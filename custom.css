@@ -1,0 +1,10 @@
+@media(min-width:768px)
+{
+    .reserve-input{
+        width: 60%;
+    }
+}
+label{
+    font-size: 24px;
+    color: #000;
+}
